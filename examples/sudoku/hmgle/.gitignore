@@ -1,0 +1,11 @@
+*.o
+*.d
+demo
+test_fun
+test_print_dlx_matrix
+test_dlx
+test_sudoku
+sudoku2str
+tags
+*.out
+sudoku_solver
